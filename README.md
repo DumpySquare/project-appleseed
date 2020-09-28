@@ -1,4 +1,4 @@
-# project-butterfly
+# project-appleseed
 document and explore making rest apis
 
 
@@ -7,4 +7,6 @@ https://dev.to/oieduardorabelo/nodejs-with-typescript-debug-inside-vscode-and-no
 
 boilerplate repo for rest api with a bunch of nice features
 https://github.com/antonpegov/modern-stuff-playground
+
+## Neil's section ##
 
